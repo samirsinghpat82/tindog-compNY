@@ -1,0 +1,181 @@
+#title
+{
+  background-color: #ff4c68;
+  color:#fff;
+}
+body{
+  font-family:"Monsterrat"
+}
+h1
+{
+  font-family: "Monsterrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid
+{
+  padding:3% 15% 7%;
+}
+.navbar-brand
+{
+  font-family:"ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar
+{
+  padding: 0 0 4.5rem;
+}
+.nav-link1
+{
+color: blue;
+font-size: 1rem;
+padding:0 18px;
+}
+
+.nav-link3
+{
+color: blue;
+padding:0 18px;
+}
+.nav-link2
+{
+color: blue;
+padding:0 18px;
+}
+.Download-button
+{
+  margin:5% 3% 5% 0;
+}
+.collapse-navbar-collapse
+{
+  align-items: flex-end;
+}
+.title-image
+{
+  width:60%;
+  transform: rotate(25deg);
+position:absolute;
+right:5%;
+top:1%
+
+
+}
+.fa-check-circle
+{
+  color:#ff4c68;
+
+}
+#features{
+  padding:7% 15%;
+  background-color: #fff;
+  position:relative;
+  z-index: 1;
+}
+.fa-heartbeat
+{
+  color:#ff4c68;
+}
+.fa-bullseye
+
+  {
+    color:#ff4c68;
+  }
+.feature-box
+{
+  text-align: center;
+}
+h3
+{
+  font-family: Monsterrat;
+}
+p{
+  color:grey;
+}
+.icon
+{
+  margin-bottom: 10%;
+}
+.icon:hover{
+color:pink;
+}
+#testimonials
+{
+  padding:7% 15%;
+  text-align: center;
+  background-color: #66BFBF;
+  color:#fff;
+  font-family: Monsterrat-bold;
+}
+.carousel-item
+{
+  padding:7% 15%;
+}
+.testimonials-image
+{
+  margin:5%;
+  border-radius: 100%;
+  width:15%;
+}
+#press{
+  background-color: #66BFBF;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#pricing{
+  padding:100px;
+  text-align: center;
+
+}
+.pricing-column
+{
+  padding:3% 2%;
+}
+@media (max-width:1028px) {
+
+#Title{
+  text-align: center;
+
+}
+  .title-image{
+  position:static;
+  transform: rotate(0);
+  }
+}
+
+#cta{
+    background-color:#ff4c68;
+    text-align: center;
+    color:#fff;
+    padding:7% 15%;
+}
+.cta-heading
+{
+  font-family: Monsterrat-black;
+  font-size: 3rem;
+  line-height=1.5;
+}
+.cta-download{
+  margin:1% ;
+}
+#footer
+{
+  padding:7% 15%;
+  text-align: center;
+}
+.social-media
+{
+  margin:20px 10px;
+  color:#c02739;
+}
+.social-media:hover
+{
+  color:#66BFBF;
+}
+.Copyright
+{
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  line-height:1.5;
+}
